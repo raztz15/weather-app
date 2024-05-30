@@ -1,0 +1,1 @@
+export const FAVE_CITIES_LOCAL_STORAGE = "favoriteCities"
